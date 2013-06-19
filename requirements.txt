@@ -4,9 +4,9 @@ lxml>=2.2.8
 progressbar>=2.2
 configparser>=3.2.0
 pytz
-djangorestframework
+djangorestframework<1.0
 IPy
-
+unifi>1.0
 # required for operation on linux
 dbus
 daemon
